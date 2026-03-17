@@ -3,7 +3,7 @@
 A deep learning project that generates story continuations using an LSTM model built in Python with TensorFlow and Gradio.
 
 ## Demo
-![App Screenshot](app_screenshot.png)
+![App Screenshot](app_screenshot(2).png)
 
 
 ## How it works
